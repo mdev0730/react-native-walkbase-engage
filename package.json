@@ -1,0 +1,20 @@
+{
+  "name": "react-native-walkbase-engage",
+  "version": "1.0.0",
+  "description": "A WalkbaseEngage module for react native.",
+  "main": "WalkbaseEngageManager",
+  "repository": {
+    "type": "git"
+  },
+  "bugs": {
+  },
+  "keywords": [
+  	"react-native",
+  	"android",
+    "ios",
+    "WalkbaseEngage",
+    "bluetooth",
+    "low energy"
+  ],
+  "license": "Apache-2.0"
+}
